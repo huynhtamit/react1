@@ -1,0 +1,32 @@
+[
+    {
+        "id" : 1,
+        "name" : "Tam",
+        "phone" : "0123547964",
+        "level" : 1
+    },
+    {
+        "id" : 2,
+        "name" : "Hoang",
+        "phone" : "0943731547",
+        "level" : 2
+    },
+    {
+        "id" : 3,
+        "name" : "Tuan",
+        "phone" : "0912763145",
+        "level" : 3
+    },
+    {
+        "id" : 4,
+        "name" : "Anh",
+        "phone" : "0127345784",
+        "level" : 2
+    },
+    {
+        "id" : 5,
+        "name" : "Tai",
+        "phone" : "0104377857",
+        "level" : 2
+    }
+]
